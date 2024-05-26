@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="15.840049"
+   height="19.870337"
+   viewBox="0 0 15.840049 19.870337"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="ProfilefullName_ico.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="Iconly/Light/Profile"
+     transform="translate(-4.0644498,-2.1001649)">
+    <g
+       id="Profile">
+      <path
+         id="Stroke 1"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 11.9849,15.3462 c -3.86759,0 -7.17045,0.5848 -7.17045,2.9267 0,2.3419 3.28191,2.9476 7.17045,2.9476 3.8676,0 7.1696,-0.5857 7.1696,-2.9267 0,-2.3409 -3.281,-2.9476 -7.1696,-2.9476 z"
+         stroke="#130f26"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+      <path
+         id="Stroke 3"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 11.9849,12.0059 c 2.5381,0 4.5952,-2.05811 4.5952,-4.59621 0,-2.53809 -2.0571,-4.59524 -4.5952,-4.59524 -2.53811,0 -4.5962,2.05715 -4.5962,4.59524 -0.00857,2.52953 2.03524,4.58761 4.5638,4.59621 z"
+         stroke="#130f26"
+         stroke-width="1.42857"
+         stroke-linecap="round"
+         stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>
