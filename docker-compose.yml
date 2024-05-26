@@ -1,0 +1,10 @@
+version: "3.9"  # Adjust version if needed
+
+services:
+  cov-go:
+    build: .
+    ports:
+      - "5174:5174"  # Expose port
+    environment:
+      - VITE_BACKEND_URL=http://143.110.156.215:8181
+      - VITE_FRONTEND_URL=https://cov-shop.netlify.app # Optional: Set environment for virtual environment (if used)
